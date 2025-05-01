@@ -17,18 +17,11 @@ The notebooks can be run locally
 if a user installs Anaconda and the [landlab][landlab] library on their computer.
 All lessons are also available to run
 on [EarthscapeHub][jhub].
-Click this button:
-
-[![Run on EarthscapeHub][badge]][jhub-link]
-
-to open the lessons directly on the EarthscapeHub *explore* instance!
+** Click this button: [![Run on EarthscapeHub][badge]][jhub-link] to open the lessons directly on the EarthscapeHub *explore* instance!**
 
 > **Note:** The EarthscapeHub *explore* instance is password-protected.
   Please contact the [CSDMS help desk][help-desk] about obtaining a login,
   or visit [this][jhub-info] CSDMS wiki page for more information.
 
 
-Development of the Landlab NetworkSedimentTransporter has been supported by NSF grants 
-
-[GLD 2138504](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138504&utm_medium=email&utm_source=govdelivery) and
-[CSSI 2104055](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104055&HistoricalAwards=false).
+Development of the Landlab NetworkSedimentTransporter has been supported by NSF grants [GLD 2138504](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138504&utm_medium=email&utm_source=govdelivery) and [CSSI 2104055](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104055&HistoricalAwards=false).
