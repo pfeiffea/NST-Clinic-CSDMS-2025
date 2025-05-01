@@ -17,7 +17,8 @@ The notebooks can be run locally
 if a user installs Anaconda and the [landlab][landlab] library on their computer.
 All lessons are also available to run
 on [EarthscapeHub][jhub].
-** Click this button: [![Run on EarthscapeHub][badge]][jhub-link] to open the lessons directly on the EarthscapeHub *explore* instance!**
+
+###Click this button: [![Run on EarthscapeHub][badge]][jhub-link] to open the lessons directly on the EarthscapeHub *explore* instance.
 
 > **Note:** The EarthscapeHub *explore* instance is password-protected.
   Please contact the [CSDMS help desk][help-desk] about obtaining a login,
