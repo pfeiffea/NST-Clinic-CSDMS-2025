@@ -1,13 +1,12 @@
 # NST-Clinic-CSDMS-2025
- Resources for the NST Clinic at CSDMS in 2025, hosted by A Pfeiffer, J Czuba, and F Shacheri
+ Resources for the NST Clinic at CSDMS in 2025, hosted by Allison Pfeiffer, with contributions from Jon Czuba and Fatemeh Shacheri
  
  <!-- Links -->
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
 [help-desk]: https://csdms.github.io/help-desk/
 [jhub]: https://csdms.colorado.edu/wiki/JupyterHub
+[jhub-link]: https://explore.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpfeiffea%2FNST-Clinic-CSDMS-2025&urlpath=tree%2FNST-Clinic-CSDMS-2025%2F&branch=master 
 
-[jhub-link]: placeholder
-[jhub-link--IVY-Example]: https://explore.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fivy&urlpath=lab%2Ftree%2Fivy%2FREADME.ipynb%3Fautodecode&branch=main
 
 [jhub-info]: https://csdms.colorado.edu/wiki/JupyterHub
 [landlab]: https://landlab.readthedocs.io/en/latest/installation.html
@@ -15,7 +14,7 @@
 
 
 The notebooks can be run locally
-if a user installs Anaconda and the landlab library on their computer.
+if a user installs Anaconda and the [landlab][landlab] library on their computer.
 All lessons are also available to run
 on [EarthscapeHub][jhub].
 Click this button:
@@ -29,10 +28,7 @@ to open the lessons directly on the EarthscapeHub *explore* instance!
   or visit [this][jhub-info] CSDMS wiki page for more information.
 
 
+Development of the Landlab NetworkSedimentTransporter has been supported by NSF grants 
 
-
-Development of the Landlab NetworkSedimentTransporter has been supported via NSF grants....
-*NAME NAME*
-(award numbers
 [GLD 2138504](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138504&utm_medium=email&utm_source=govdelivery) and
-[CSSI 2104055](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104055&HistoricalAwards=false)).
+[CSSI 2104055](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104055&HistoricalAwards=false).
