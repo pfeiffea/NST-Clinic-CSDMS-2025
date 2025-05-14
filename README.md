@@ -1,5 +1,5 @@
 # NST-Clinic-CSDMS-2025
- Resources for the Landlab NetworkSedimentTransporter Clinic at CSDMS in May 2025, hosted by Allison Pfeiffer, with contributions from Jon Czuba and Fatemeh Shacheri
+ Resources for the Landlab NetworkSedimentTransporter Clinic at CSDMS in May 2025, led by Allison Pfeiffer, with contributions from Jon Czuba and Fatemeh Shacheri
  
  <!-- Links -->
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
